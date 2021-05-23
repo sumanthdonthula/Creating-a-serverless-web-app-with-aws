@@ -9,7 +9,8 @@ Basically for dynamically hosting our website on cloud we have to create a repos
 
 I posted the upgraded wildrydes-site in this repo.
 
-You can see the working of my web application here- https://drive.google.com/file/d/1ZsJMm-3Y7yJkLoVBlREEDIif9edIbVbv/view?usp=sharing
+You can see the working of my web application here: 
+https://drive.google.com/file/d/1ZsJMm-3Y7yJkLoVBlREEDIif9edIbVbv/view?usp=sharing
 
 In user pools we can see number of people who have signed up with our app.
 
@@ -19,3 +20,5 @@ In dynamodb we can see the dynamic tables created by our user while they are acc
 
 ![image](https://user-images.githubusercontent.com/46747610/119274719-eca9ca80-bc2e-11eb-8727-f449b7c3017a.png)
 
+To deploy your serverless web application on aws follow this link:
+https://aws.amazon.com/getting-started/hands-on/build-serverless-web-app-lambda-apigateway-s3-dynamodb-cognito/
